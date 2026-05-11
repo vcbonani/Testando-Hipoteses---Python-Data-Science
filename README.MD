@@ -1,0 +1,20 @@
+## Curso de Data Science: testando hipóteses - Alura
+
+Faça esse curso de Data Science e:
+* Aprenda a formular hipóteses
+* Saiba interpretar conceitos estatísticos de confiança e significância
+* Crie intervalos de confiança para suas amostras
+* Utilize Python para executar testes estatísticos
+* Aplique teste t e teste z para uma amostra
+* Compare dois grupos de amostras, independentes ou pareadas
+* Interprete o p-valor para concluir sobre sua hipótese
+
+Arquivo principal do curso:
+* Testes_com_Data_Science
+
+Arquivos de desafios:
+* avaliando_desempenho_vendas
+
+Arquivos de apoio para aprendizado:
+* efeito_tamanho_amostra
+* desvio_padrao_erro_padrao
