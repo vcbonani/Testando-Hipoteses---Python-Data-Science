@@ -14,7 +14,10 @@ Arquivo principal do curso:
 
 Arquivos de desafios:
 * avaliando_desempenho_vendas
+* teste_z_com_p_valor
 
 Arquivos de apoio para aprendizado:
 * efeito_tamanho_amostra
 * desvio_padrao_erro_padrao
+
+O diretório dados contém os arquivos utilizados durante o curso.
