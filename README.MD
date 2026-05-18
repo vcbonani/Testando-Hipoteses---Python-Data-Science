@@ -15,6 +15,7 @@ Arquivo principal do curso:
 Arquivos de desafios:
 * avaliando_desempenho_vendas
 * teste_z_com_p_valor
+* executando_teste_t_com_p-valor
 
 Arquivos de apoio para aprendizado:
 * efeito_tamanho_amostra
